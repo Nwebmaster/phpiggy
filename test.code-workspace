@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../MAMP/htdocs/test"
+	},
+	{
+		"path": "../../../MAMP/htdocs/tu-proyecto"
+	},
+	{
+		"path": "../../../Users/pacon/OneDrive/Escritorio/Websites/Website_6"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Website_6"
+  }
+}
